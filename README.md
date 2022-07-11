@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jovana.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m a frontend web developer.
 
 <!---
 jovanako/jovanako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
