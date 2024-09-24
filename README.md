@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jovana.
-- 👀 I’m a frontend web developer.
+- 👀 I’m a software engineer.
 
 <!---
 jovanako/jovanako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
